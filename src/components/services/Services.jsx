@@ -24,7 +24,7 @@ export const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Web App, Mobile UI / UX designs for both iOS and Android platforms</p>
+              <p>Mobile UI / UX designs for both iOS and Android platforms</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -87,27 +87,27 @@ export const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Provide High Quality Android App</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Ensure Google Recommended Standards</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Complete End-To-End Testing (Android + IOS + Website)</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Able to fix bugs in your Existing App</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Ensure High Security </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Ensure Maintenance and Support</p>
             </li>
           </ul>
         </article>

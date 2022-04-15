@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 120vh;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -57,10 +57,15 @@ header {
   font-weight: 300;
   font-size: 0.9rem;
 }
+
+.text-light{
+  color: var(--color-primary);
+  font-size: 1rem;
+}
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) ===================*/
-@media screen and (max-width: 3000px) {
+@media screen and (max-width: 1024px) {
   header {
-    height: 110vh;
+    height: 68vh;
 
   }
 }
