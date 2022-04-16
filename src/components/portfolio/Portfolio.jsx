@@ -30,8 +30,8 @@ const Portfolio = () => {
             </div>
               <h3>"SWEETCHAT" a real time messaging application</h3>
               <div className="portfolio__item-cta">
-              <a href="https://github.com/iamnoyon/sweetchat-nextjs" className="btn" target="_blank">GitHub</a>
-              <a href="https://sweet-self.vercel.app/" className="btn btn-primary" target="_blank">Live Demo</a>
+              <a href="https://github.com/SHITOL-CSE-RU/SweetChat-NextJs" className="btn" target="_blank">GitHub</a>
+              <a href="https://sweetchat.vercel.app" className="btn btn-primary" target="_blank">Live Demo</a>
               </div>
           </article>
 
