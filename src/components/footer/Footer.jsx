@@ -22,7 +22,7 @@ export const Footer = () => {
       <div className="footer__socials">
         <a href="https://www.facebook.com/shitol.cse"><FaFacebookF /></a>
         <a href="https://www.instagram.com/shitol.cse"><FiInstagram /></a>
-        <a href="https://www.linkedin.com/in/shitol-sarker-9b3824218/"><BsLinkedin /></a>
+        <a href="https://www.linkedin.com/in/shitol"><BsLinkedin /></a>
         <a href="https://www.github.com/SHITOL-CSE-RU" ><BsGithub /></a>
       </div>
 
